@@ -15,7 +15,7 @@ export const plansMap = [
     id: "pro",
     name: "Pro",
     description: "All Blog Posts, let’s go!",
-    price: "19.99",
+    price: "10",
     items: ["Unlimited Blog Posts", "Unlimited Transcriptions"],
     paymentLink: "https://buy.stripe.com/test_cN26qRclufUl9jibIL",
     priceId:
